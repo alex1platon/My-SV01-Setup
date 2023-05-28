@@ -1,30 +1,34 @@
 
 # Sovol SV01 (classic) upgrades, parts, and materials
 
+## Reliability upgrades
 | upgrade | img | links |  
 | --- | --- | --- | 
 | general upgrades | <img height=240 src="img/printhead.jpeg"> | [larger image](img/printhead.jpeg) | 
 | BMG/left clone <br> extruder | <img height=240 src="https://m.media-amazon.com/images/I/31eNmDLdNjL.jpg"> | [amazon](<https://a.co/d/bordiUr>) |
-| quiet part cooling | <img height=240 src="https://m.media-amazon.com/images/I/71SOqhUBiXL._SL1500_.jpg"> | [wathai 4010 blower](<https://a.co/d/6yR5Fmj>) |
-| part cooling mount | <img height=240 src="img/part cooling mount.jpeg"> | [swivel for<br> 4010 part <br>cooling <br> blower](<https://www.printables.com/model/471880-swivel-for-4010-part-cooling-blower-sv0103-bmgleft>) | 
-| quiet case fan <br> & heatbreak fan | <img height=240 src="https://m.media-amazon.com/images/I/71lyRpVR4OL._AC_SL1500_.jpg"> | [noctua](https://a.co/d/gO9xUxP) <br> on amazon | 
-| buck <br> converter <br> for noctua's | <img height=240 src="https://m.media-amazon.com/images/I/616do91Hk6L._AC_SL1500_.jpg"> | [amazon](https://a.co/d/ecNWJ9P) |
-| 4020 case <br>fan and buck <br> converter <br> mount | <img height=240 src="https://media.printables.com/media/prints/213163/images/3474119_838f0288-6d31-4b94-9870-59846d3a6800/thumbs/inside/1280x960/jpeg/img_5113heic_bw.webp"> | [mount STL](<https://www.printables.com/model/213163-mount-for-silent-400-mainboard-axial-cooling-fan-f>) |
-| heatbreak <br> fan mount | <img height=240 src="img/heatbreak fan mount and brace.jpeg"> | [printables](<https://www.printables.com/model/491989-40x0-fan-mount-for-e3dv6-style-heatbreaks-centered>) |
-| X belt tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
-| X range extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
-| Y belt tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
-| Y stepper mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](<https://www.thingiverse.com/thing:4838967>) |
-| Z stop alignment | <img height=240 src="img/z stop alignment.jpeg"> | [printables](<https://www.printables.com/model/216852-sovol-sv01-z-stop-alignment>) |
+| X belt <br>tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
+| X range <br>extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
+| Y belt <br>tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
+| Y stepper <br>mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](<https://www.thingiverse.com/thing:4838967>) |
+| Z stop<br> alignment | <img height=240 src="img/z stop alignment.jpeg"> | [printables](<https://www.printables.com/model/216852-sovol-sv01-z-stop-alignment>) |
 | runout sensor<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/b7/ad/2a/7f/0c/IMG_1791.JPG"> | [JSchulze<br>mount](<https://www.thingiverse.com/thing:4702282>) |
 |  filament roll<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/fd/c8/3a/ba/3b/IMG_2220_BW.jpg"> | [ender 3<br>roll<br>mount](<https://www.thingiverse.com/thing:3209211>) & <br> [bearing](https://a.co/d/90L8IW4) |
-| stepper cooling fins | <img height=240 src="https://m.media-amazon.com/images/I/51LDMZFWvDL._SL1100_.jpg"> | [uxcell on amazon](https://a.co/d/aYJ3Zk2) |
-| BTT SKR Mini <br> E3 V3.0 <br> control board | <img height=240 src="https://m.media-amazon.com/images/I/71bNrAYagQL._AC_SL1500_.jpg"> | [E3 V3.0](https://a.co/d/51EUZl3) |
-| quiet power supply fan (only 12V fan works!) | <img height=240 src="https://m.media-amazon.com/images/I/71Dst09vyBL._SL1300_.jpg"> | [wathai on amazon](https://a.co/d/24aplno) |
+| stepper <br>cooling <br>fins | <img height=240 src="https://m.media-amazon.com/images/I/51LDMZFWvDL._SL1100_.jpg"> | [uxcell](https://a.co/d/aYJ3Zk2)<br>on amazon |
 | splice<br> breadboard<br> mount | <img height=240 src="https://media.printables.com/media/prints/158918/images/1483352_e93db858-d549-48ca-991c-90a733380b5a/thumbs/inside/1920x1440/jpg/large_display_image_bw_158918.webp"> | [printables](<https://files.printables.com/media/prints/158918/stls/1483358_f108b1d6-a148-4276-bba7-06b74ad5d344/breadboard_mount.stl>) |
 | silicone <br>mounts& <br>Aluminum <br> wheels | <img height=240 src="https://m.media-amazon.com/images/I/61fvXmutOPL._SX522_.jpg"> | [amazon](https://a.co/d/6jfQews) |
 | bed clips | <img height=240 src="https://m.media-amazon.com/images/I/61cp7aySFIL._AC_SL1500_.jpg"> | [amazon](https://a.co/d/7JL6rtf) |
 
+## Noise reduction upgrades
+| upgrade | img | links |  
+| --- | --- | --- | 
+| BTT SKR Mini <br> E3 V3.0 <br> control board | <img height=240 src="https://m.media-amazon.com/images/I/71bNrAYagQL._AC_SL1500_.jpg"> | [E3 V3.0](https://a.co/d/51EUZl3) |
+| quiet power<br> supply fan <br>(only 12V <br>fan works!) | <img height=240 src="https://m.media-amazon.com/images/I/71Dst09vyBL._SL1300_.jpg"> | [wathai on<br> amazon](https://a.co/d/24aplno) |
+| quiet part <br>cooling | <img height=240 src="https://m.media-amazon.com/images/I/71SOqhUBiXL._SL1500_.jpg"> | [wathai <br>4010 blower](<https://a.co/d/6yR5Fmj>) |
+| part cooling <br>mount | <img height=240 src="img/part cooling mount.jpeg"> | [swivel for<br> 4010 part <br>cooling <br> blower](<https://www.printables.com/model/471880-swivel-for-4010-part-cooling-blower-sv0103-bmgleft>) | 
+| quiet case fan <br> & heatbreak fan | <img height=240 src="https://m.media-amazon.com/images/I/71lyRpVR4OL._AC_SL1500_.jpg"> | [noctua](https://a.co/d/gO9xUxP) <br> on amazon | 
+| buck <br> converter <br> for noctua's | <img height=240 src="https://m.media-amazon.com/images/I/616do91Hk6L._AC_SL1500_.jpg"> | [amazon](https://a.co/d/ecNWJ9P) |
+| 4020 case <br>fan and buck <br> converter <br> mount | <img height=240 src="https://media.printables.com/media/prints/213163/images/3474119_838f0288-6d31-4b94-9870-59846d3a6800/thumbs/inside/1280x960/jpeg/img_5113heic_bw.webp"> | [mount STL](<https://www.printables.com/model/213163-mount-for-silent-400-mainboard-axial-cooling-fan-f>) |
+| heatbreak <br> fan mount | <img height=240 src="img/heatbreak fan mount and brace.jpeg"> | [printables](<https://www.printables.com/model/491989-40x0-fan-mount-for-e3dv6-style-heatbreaks-centered>) |
 
 
 ## Accessories
