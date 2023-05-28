@@ -29,7 +29,7 @@
 | accesory | img | links | 
 | --- | --- | ---|
 | noclogger | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [noclogger](noclogger.com) |
-| raspberry pi <br> and case | <img height=240 src="img/Raspi.jpeg"> | [raspi](vilros.com) and [case](<https://www.thingiverse.com/thing:922740>) |
+| raspberry pi <br> and case | <img height=240 src="img/Raspi.jpeg"> | [raspi](https://vilros.com) and [case](<https://www.thingiverse.com/thing:922740>) |
 | pi camera <br> and mount | <img height=240 src="img/Raspi Cam Support.jpeg"> | [dorrhea camera](https://a.co/d/dSdaBow), [dorrhea IR spotlights](https://a.co/d/jax8Tq6), [camera ribbon](https://a.co/d/bCktKH6), and [mount stl](<https://www.printables.com/model/158940-pi-camera-support-for-20mm-rail-holes-for-dorhea-p>) |
 | APC UPS <br > and Wemo smart plugs | <img height=240 src="img/Wemo and APC Back_UPS 750VA.jpeg"> | [amazon be650g](https://a.co/d/j0rVtcV) <br> and [amazon wemo](https://a.co/d/0c2rCXv) |
 | lid for blue lcd screen | <img height=240 src="https://media.printables.com/media/prints/489612/images/3994942_98f87456-4f71-4621-a18d-1f88f59d4974/thumbs/inside/320x240/jpeg/large_display_1475f57a-1b92-4bd9-99a3-1d4a4fee3fa2_489612.webp"> | [printables](<https://www.printables.com/model/489612-lcd-display-lid-for-sovol-sv01-or-ender-3>) | 
