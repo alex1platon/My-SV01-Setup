@@ -12,7 +12,7 @@
 | 4020 case fan <br> and buck converter <br> mount | <img height=240 src="https://media.printables.com/media/prints/213163/images/3474119_838f0288-6d31-4b94-9870-59846d3a6800/thumbs/inside/1280x960/jpeg/img_5113heic_bw.webp"> | [mount STL](<https://www.printables.com/model/213163-mount-for-silent-400-mainboard-axial-cooling-fan-f>) |
 | heatbreak fan mount | <img height=240 src="img/heatbreak fan mount and brace.jpeg"> | [printables](<https://www.printables.com/model/491989-40x0-fan-mount-for-e3dv6-style-heatbreaks-centered>) |
 | X belt tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
-| X range extender | <img height=240 src="img/X range x10dr.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
+| X range extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
 | Y belt tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
 | Y stepper mount | <img height=240 src="img/Y stepper mount.jpeg"> | [thingi](<https://www.thingiverse.com/thing:4838967>) |
 | Z stop alignment | <img height=240 src="img/z stop alignment.jpeg"> | [printables](<https://www.printables.com/model/216852-sovol-sv01-z-stop-alignment>) |
