@@ -14,7 +14,7 @@
 | X belt tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
 | X range extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
 | Y belt tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
-| Y stepper mount | <img height=240 src="img/Y stepper mount.jpeg"> | [thingi](<https://www.thingiverse.com/thing:4838967>) |
+| Y stepper mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](<https://www.thingiverse.com/thing:4838967>) |
 | Z stop alignment | <img height=240 src="img/z stop alignment.jpeg"> | [printables](<https://www.printables.com/model/216852-sovol-sv01-z-stop-alignment>) |
 | stepper cooling fins | <img height=240 src="https://m.media-amazon.com/images/I/51LDMZFWvDL._SL1100_.jpg"> | [uxcell on amazon](https://a.co/d/aYJ3Zk2) |
 | BTT SKR Mini <br> E3 V3.0 <br> control board | <img height=240 src="https://m.media-amazon.com/images/I/71bNrAYagQL._AC_SL1500_.jpg"> | [E3 V3.0](https://a.co/d/51EUZl3) |
@@ -27,8 +27,8 @@
 
 | accesory | img | links | 
 | --- | --- | ---|
-| noclogger | <img src="img/NoClogger, Elmers Glue Stick, and hairspray.jpeg" height="240"> | [noclogger](noclogger.com) |
-| raspberry pi <br> and case | <img height=240 src="img/raspi.jpeg"> | [raspi](vilros.com) and [case](<https://www.thingiverse.com/thing:922740>) |
+| noclogger | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [noclogger](noclogger.com) |
+| raspberry pi <br> and case | <img height=240 src="img/Raspi.jpeg"> | [raspi](vilros.com) and [case](<https://www.thingiverse.com/thing:922740>) |
 | pi camera <br> and mount | <img height=240 src="img/Raspi Cam Support.jpeg"> | [dorrhea camera](https://a.co/d/dSdaBow), [dorrhea IR spotlights](https://a.co/d/jax8Tq6), [camera ribbon](https://a.co/d/bCktKH6), and [mount stl](<https://www.printables.com/model/158940-pi-camera-support-for-20mm-rail-holes-for-dorhea-p>) |
 | APC UPS <br > and Wemo smart plugs | <img height=240 src="img/Wemo and APC Back_UPS 750VA.jpeg"> | [amazon be650g](https://a.co/d/j0rVtcV) <br> and [amazon wemo](https://a.co/d/0c2rCXv) |
 | lid for blue lcd screen | <img height=240 src="https://media.printables.com/media/prints/489612/images/3994942_98f87456-4f71-4621-a18d-1f88f59d4974/thumbs/inside/320x240/jpeg/large_display_1475f57a-1b92-4bd9-99a3-1d4a4fee3fa2_489612.webp"> | [printables](<https://www.printables.com/model/489612-lcd-display-lid-for-sovol-sv01-or-ender-3>) | 
@@ -54,7 +54,7 @@
 | --- | --- | --- |
 | eSun cleaning filament, <br> Sovol drier <br> and CC3D PETG | <img src=img/Drier%20and%20PETG.jpeg height="240"> | [esun clean fil](https://a.co/d/gpyQDKD), [sovol drier](<https://a.co/d/6h4sCjo>) and [cc3d petg](<https://www.amazon.com/stores/page/CBE70C6F-154D-45EF-AD40-390049B9A523?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) on amazon |
 | CC3D silk PLA | <img src=img/Silk%20PLA.jpeg height="240"> | [amazon](<https://www.amazon.com/stores/page/462C1936-52A4-46DB-9F58-E775EC668252?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) |
-| CA glue+accellerant, urethane glue, elmers purple glue stick <br> and hairspray | <img src="img/NoClogger, Elmers Glue Stick, and hairspray.jpeg" height="240"> | [CA glue](https://www.amazon.com/dp/B07Y6HG8B6) [more CA](https://a.co/d/2lVBcOi), [urethane gorilla](https://www.amazon.com/dp/B009M9F6JA), [elmers](https://a.co/d/bHA1sv2), and [hairspray](https://www.walmart.com/ip/Garnier-Fructis-Style-Extreme-Control-Hairspray-Extreme-Hold-8-25-fl-oz/648274866) |
+| CA glue+accellerant, urethane glue, elmers purple glue stick <br> and hairspray | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [CA glue](https://www.amazon.com/dp/B07Y6HG8B6) [more CA](https://a.co/d/2lVBcOi), [urethane gorilla](https://www.amazon.com/dp/B009M9F6JA), [elmers](https://a.co/d/bHA1sv2), and [hairspray](https://www.walmart.com/ip/Garnier-Fructis-Style-Extreme-Control-Hairspray-Extreme-Hold-8-25-fl-oz/648274866) |
 | CC3D PLA Max | <img height=240 src="img/PLA Max.jpeg"> | [amazon](<https://www.amazon.com/stores/page/F41EE03F-2754-4B5B-83E4-568F89EC4F21?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) | 
 
 
