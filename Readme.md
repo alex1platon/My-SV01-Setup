@@ -5,7 +5,7 @@
 | --- | --- | --- | 
 | general upgrades | <img height=240 src="img/printhead.jpeg"> | [larger image](img/printhead.jpeg) | 
 | BMG/left clone <br> extruder | <img height=240 src="https://m.media-amazon.com/images/I/31eNmDLdNjL.jpg"> | [amazon](<https://a.co/d/bordiUr>) |
-| quiet part cooling | <video width="320" height="240" controls src="img/Quiet.MOV.small.mp4"> | [wathai 4010 blower](<https://a.co/d/6yR5Fmj>) |
+| quiet part cooling | <a href="img/Quiet.MOV.small.mp4">video</a> | [wathai 4010 blower](<https://a.co/d/6yR5Fmj>) |
 | part cooling mount | <img height=240 src="img/part cooling mount.jpeg"> | [swivel for 4010 part cooling blower](<https://www.printables.com/model/471880-swivel-for-4010-part-cooling-blower-sv0103-bmgleft>) | 
 | quiet case fan <br> and heatbreak fan | <img height=240 src="https://m.media-amazon.com/images/I/71lyRpVR4OL._AC_SL1500_.jpg"> | [noctua on amazon](https://a.co/d/gO9xUxP) | 
 | buck converter for noctua's | <img height=240 src="https://m.media-amazon.com/images/I/616do91Hk6L._AC_SL1500_.jpg"> | [amazon](https://a.co/d/ecNWJ9P) |
