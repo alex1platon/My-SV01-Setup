@@ -64,7 +64,7 @@
 | --- | --- | --- |
 | calibrated Z steps <br> & BMG extruder e steps | <img height=240 src="img/e steps.png"> | [z calib](<https://www.printables.com/model/158919-z-calibration-tower-5-mm-graduations>) |
 | Dr Vax adhesion and part cooling check | <img height=240 src="https://cdn.thingiverse.com/assets/f8/42/d9/e8/f7/IMG_1876_BW.jpg"> | [Irv Shapiro test](https://www.thingiverse.com/thing:4592719) print at 50% scale |
-| part cooling bridging test | <img height=24- src="https://media.printables.com/media/prints/158911/images/1483272_86a35e81-036d-4eaf-a15e-d99a8840c063/thumbs/inside/320x240/png/large_display_merged_3_bridge_mini_tests_158911.webp"> | [printables](https://www.printables.com/model/158911-bridging-mini-test-also-tests-cooling-adhesion) |
+| part cooling bridging test | <img height=240 src="https://media.printables.com/media/prints/158911/images/1483272_86a35e81-036d-4eaf-a15e-d99a8840c063/thumbs/inside/320x240/png/large_display_merged_3_bridge_mini_tests_158911.webp"> | [printables](https://www.printables.com/model/158911-bridging-mini-test-also-tests-cooling-adhesion) |
 
 
 
