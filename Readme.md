@@ -54,9 +54,9 @@
 | --- | --- | --- |
 | eSun cleaning filament, <br> Sovol drier <br> and CC3D PETG | <img src=img/Drier%20and%20PETG.jpeg height="240"> | [esun clean fil](https://a.co/d/gpyQDKD), [sovol drier](<https://a.co/d/6h4sCjo>) and [cc3d petg](<https://www.amazon.com/stores/page/CBE70C6F-154D-45EF-AD40-390049B9A523?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) on amazon |
 | CC3D silk PLA | <img src=img/Silk%20PLA.jpeg height="240"> | [amazon](<https://www.amazon.com/stores/page/462C1936-52A4-46DB-9F58-E775EC668252?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) |
-| elmers purple glue stick <br> and hairspray | <img src="img/NoClogger, Elmers Glue Stick, and hairspray.jpeg" height="240"> | links |
+| CA glue+accellerant, urethane glue, elmers purple glue stick <br> and hairspray | <img src="img/NoClogger, Elmers Glue Stick, and hairspray.jpeg" height="240"> | [CA glue](https://www.amazon.com/dp/B07Y6HG8B6) [more CA](https://a.co/d/2lVBcOi), [urethane gorilla](https://www.amazon.com/dp/B009M9F6JA), [elmers](https://a.co/d/bHA1sv2), and [hairspray](https://www.walmart.com/ip/Garnier-Fructis-Style-Extreme-Control-Hairspray-Extreme-Hold-8-25-fl-oz/648274866) |
 | CC3D PLA Max | <img height=240 src="img/PLA Max.jpeg"> | [amazon](<https://www.amazon.com/stores/page/F41EE03F-2754-4B5B-83E4-568F89EC4F21?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) | 
-| eSun cleaning filament | <img height=240 src="https://m.media-amazon.com/images/I/418-L+Gn5yS._AC_SX522_.jpg"> |  | 
+
 
 
 ## Calibrations 
