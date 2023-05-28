@@ -54,7 +54,7 @@
 | --- | --- | --- |
 | eSun cleaning filament, <br> Sovol drier <br> and CC3D PETG | <img src=img/Drier%20and%20PETG.jpeg height="240"> | [esun clean fil](https://a.co/d/gpyQDKD), [sovol drier](<https://a.co/d/6h4sCjo>) and [cc3d petg](<https://www.amazon.com/stores/page/CBE70C6F-154D-45EF-AD40-390049B9A523?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) on amazon |
 | CC3D silk PLA | <img src=img/Silk%20PLA.jpeg height="240"> | [amazon](<https://www.amazon.com/stores/page/462C1936-52A4-46DB-9F58-E775EC668252?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) |
-| CA glue+accellerant, urethane glue, elmers purple glue stick <br> and hairspray | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [CA glue](https://www.amazon.com/dp/B07Y6HG8B6) [more CA](https://a.co/d/2lVBcOi), [urethane gorilla](https://www.amazon.com/dp/B009M9F6JA), [elmers](https://a.co/d/bHA1sv2), and [hairspray](https://www.walmart.com/ip/Garnier-Fructis-Style-Extreme-Control-Hairspray-Extreme-Hold-8-25-fl-oz/648274866) |
+| CA glue+accellerant, urethane glue, elmers purple glue stick and hairspray | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [CA glue](https://www.amazon.com/dp/B07Y6HG8B6) [more CA](https://a.co/d/2lVBcOi), [urethane gorilla](https://www.amazon.com/dp/B009M9F6JA), [elmers](https://a.co/d/bHA1sv2), and [hairspray](https://www.walmart.com/ip/Garnier-Fructis-Style-Extreme-Control-Hairspray-Extreme-Hold-8-25-fl-oz/648274866) |
 | CC3D PLA Max | <img height=240 src="img/PLA Max.jpeg"> | [amazon](<https://www.amazon.com/stores/page/F41EE03F-2754-4B5B-83E4-568F89EC4F21?ingress=2&visitId=dd56032d-dc01-476f-bef5-5f8d2dee8413&ref_=ast_bln>) | 
 
 
@@ -63,6 +63,9 @@
 | what | img | link |
 | --- | --- | --- |
 | calibrated Z steps <br> & BMG extruder e steps | <img height=240 src="img/e steps.png"> | [z calib](<https://www.printables.com/model/158919-z-calibration-tower-5-mm-graduations>) |
+| Dr Vax adhesion and part cooling check | <img height=240 src="https://cdn.thingiverse.com/assets/f8/42/d9/e8/f7/IMG_1876_BW.jpg"> | [Irv Shapiro test](https://www.thingiverse.com/thing:4592719) print at 50% scale |
+| part cooling bridging test | <img height=24- src="https://www.printables.com/model/158911-bridging-mini-test-also-tests-cooling-adhesion"> | [printables](https://www.printables.com/model/158911-bridging-mini-test-also-tests-cooling-adhesion) |
+
 
 
 
