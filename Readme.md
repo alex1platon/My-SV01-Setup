@@ -54,7 +54,9 @@
 | hardened <br> steel <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/710rTbb2pwL._SL1500_.jpg"> | [amazon](https://www.amazon.com/dp/B089ZY11DD) |
 | nozzle cleaning <br> needles | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [amazon](https://a.co/d/hRjQNYg) | 
 | V slot wheels | <img height=240 src="https://m.media-amazon.com/images/I/61YdclaUhLL._SL1000_.jpg"> | [amazon](https://a.co/d/240LR4G) |
-| Steppers | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
+| X Stepper | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
+| Y Stepper | <img height=240 src="img/Y.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
+| E Stepper | <img height=240 src="img/Extruder.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
 
 
 
