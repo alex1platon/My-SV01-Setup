@@ -81,6 +81,7 @@
 | part cooling <br>bridging test | <img height=240 src="https://media.printables.com/media/prints/158911/images/1483272_86a35e81-036d-4eaf-a15e-d99a8840c063/thumbs/inside/320x240/png/large_display_merged_3_bridge_mini_tests_158911.webp"> | [printables](https://www.printables.com/model/158911-bridging-mini-test-also-tests-cooling-adhesion) |
 | ovhng cooling <br> test | <img height=240 src="https://media.printables.com/media/comment_images/1b/d1f312-ca29-4c01-9eb8-f4bffb11a3bc/thumbs/outside/320x240/jpeg/image.webp"> | [savage Lau <br>test spring](<https://www.printables.com/model/383190-overhang-test-spring/comments/799861>) <br> on printables |
 | retraction <br> calibration | <img height=240 src="http://www.retractioncalibration.com/static/Capture.JPG"> | [retraction <br> calibration <br> site](retractioncalibration.com)|
+| Z steps <br> calibration | <img height=240 src="https://cdn.thingiverse.com/assets/0c/cb/48/43/51/large_display_z_calibration_tower_5_mm_grads_-_Rev.1_thicker_wall.png"> | [z step <br> calibration](https://www.thingiverse.com/thing:4981370)|
 
 
 
