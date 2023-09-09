@@ -30,6 +30,8 @@
 | buck <br> converter <br> for noctua's | <img height=240 src="https://m.media-amazon.com/images/I/616do91Hk6L._AC_SL1500_.jpg"> | [amazon](https://a.co/d/ecNWJ9P) |
 | 4020 case <br>fan and buck <br> converter <br> mount | <img height=240 src="https://media.printables.com/media/prints/213163/images/3474119_838f0288-6d31-4b94-9870-59846d3a6800/thumbs/inside/1280x960/jpeg/img_5113heic_bw.webp"> | [mount STL](<https://www.printables.com/model/213163-mount-for-silent-400-mainboard-axial-cooling-fan-f>) |
 | heatbreak <br> fan mount | <img height=240 src="img/heatbreak fan mount and brace.jpeg"> | [printables](<https://www.printables.com/model/491989-40x0-fan-mount-for-e3dv6-style-heatbreaks-centered>) |
+| alternative <br> part cooling <br> for bmg | <img height=240 width=360 src="img/duct_5015_part_cooling.jpeg"> | [printables](https://www.printables.com/model/466448-501540x0-parthotend-cooling-for-sv0103-with-bmglef) |
+| 5015 blower<br>fan | <img height=240 width=360 src="https://m.media-amazon.com/images/I/61YEO+uAv+L._SL1000_.jpg"> | [amazon](https://a.co/d/emv9oxA) |
 
 
 ## Accessories
