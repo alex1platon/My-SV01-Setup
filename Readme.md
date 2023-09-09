@@ -32,6 +32,8 @@
 | heatbreak <br> fan mount | <img height=240 width=320 src="img/heatbreak fan mount and brace.jpeg"> | [printables](<https://www.printables.com/model/491989-40x0-fan-mount-for-e3dv6-style-heatbreaks-centered>) |
 | alternative <br> part cooling <br> for bmg | <img height=240 width=320 src="img/duct_5015_part_cooling.jpeg"> | [printables](https://www.printables.com/model/466448-501540x0-parthotend-cooling-for-sv0103-with-bmglef) |
 | 5015 blower<br>fan | <img height=240  src="https://m.media-amazon.com/images/I/61YEO+uAv+L._SL1000_.jpg"> | [amazon](https://a.co/d/emv9oxA) |
+| convert 4010<br>to quiet<br>5015 blower | <img height=200 src="img/5015_from_4010.gif"> | [thingiverse](https://www.thingiverse.com/thing:5930214) |
+| 4010 axial<br>for conv-<br>ersion | <img height=240 src="https://m.media-amazon.com/images/I/81vW3aWqv7L._SL1500_.jpg"> | [amazon](https://a.co/d/5wkSaSN) |
 
 
 ## Accessories
