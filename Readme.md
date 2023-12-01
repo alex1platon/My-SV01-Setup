@@ -5,6 +5,7 @@
 | upgrade | img | links |  
 | --- | --- | --- | 
 | general upgrades | <img height=240 src="img/printhead.jpeg"> | [larger image](img/printhead.jpeg) | 
+| high flow<br> upgrade | <img height=240 src="img/voclano%20style%20hotend.jpeg"> | [larger image](img/voclano%20style%20hotend.jpeg) | 
 | BMG/left clone <br> extruder | <img height=240 src="https://m.media-amazon.com/images/I/31eNmDLdNjL.jpg"> | [amazon](<https://a.co/d/bordiUr>) |
 | X belt <br>tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
 | X range <br>extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
@@ -53,10 +54,12 @@
 
 | part | img | links |
 | --- | --- | --- |
-| hotend | <img height=240 src="img/hotend.JPG"> | [ender3 hotend](https://a.co/d/9fq4j9g) <br> (don't use the <br> heatbreak <br> fins it comes <br> with) |
+| volcano style<br>heatblock | <img height=240 src="https://m.media-amazon.com/images/I/51YUq2enrtL._SL1000_.jpg"> | [find @ amazon](https://a.co/d/ji4frxp) |
 | all metal <br> heatbreak | <img height=240 src="img/heatbreak comparison.JPG"> | [yunbotong on amazon](https://a.co/d/fkr1iOX) |
-| 0.6 mm <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/615MjZNdlCL._SL1200_.jpg"> | [amazon](https://a.co/d/a7jK2DG) |
-| hardened <br> steel <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/710rTbb2pwL._SL1500_.jpg"> | [amazon](https://www.amazon.com/dp/B089ZY11DD) |
+| volcano<br>silicone<br>socks | <img height=240 src="https://m.media-amazon.com/images/I/51MMAMbXCfL._SL1001_.jpg"> | [find @ amazon](https://a.co/d/hDsSlHV) |
+| volcano<br>brass<br>nozzles | <img height=240 src="https://m.media-amazon.com/images/I/81G1OWgb0AL._SL1500_.jpg"> | [find @ amazon](https://a.co/d/a8r83gt) |
+| 24V 70W<br>hotend<br>heater | <img height=240 src="https://m.media-amazon.com/images/I/41Gx6WGpLPL._SL1200_.jpg"> | [find @ amazon](https://a.co/d/gRNovJU) |
+| HT-NTC100K<br>thermistor | <img height=240 src="https://m.media-amazon.com/images/I/61b8YVrrR-L._SL1500_.jpg"> | [find @ amazon](https://a.co/d/f613qRR) |
 | nozzle cleaning <br> needles | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [amazon](https://a.co/d/hRjQNYg) | 
 | V slot wheels | <img height=240 src="https://m.media-amazon.com/images/I/61YdclaUhLL._SL1000_.jpg"> | [amazon](https://a.co/d/240LR4G) |
 | X Stepper | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
@@ -93,10 +96,13 @@
 |part | img | link |
 | --- | --- | --- | 
 | titan clone extruder | <img height=240 src="https://m.media-amazon.com/images/I/71RN1zKaMtL._SX522_.jpg"> | [amazon](https://a.co/d/2jmgwQm) | 
+| hotend | <img height=240 src="img/hotend.JPG"> | [ender3 hotend](https://a.co/d/9fq4j9g) <br> (don't use the <br> heatbreak <br> fins it comes <br> with) |
 | 955 bearings for titan | <img height=240 src="https://m.media-amazon.com/images/I/61bHvwNaFuL._SX522_.jpg"> | [955](https://a.co/d/fl4OxHA) | 
 | 106 bearings for titan | <img height=240 src="https://m.media-amazon.com/images/I/51KGUubSspL._SX522_.jpg"> | [106](https://a.co/d/3Z5DTtp) |
 | tensioner for titan | <img height=240 src="https://m.media-amazon.com/images/I/61fJFumt4bL._SX522_.jpg"> | [amazon](https://a.co/d/6LCMo99) |
 | capricorn PTFE | <img height=240 src="https://m.media-amazon.com/images/I/61KJEdpuPkL._AC_SX679_.jpg"> | [amazon](https://a.co/d/dTCSR5J) | 
+| 0.6 mm <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/615MjZNdlCL._SL1200_.jpg"> | [amazon](https://a.co/d/a7jK2DG) |
+| hardened <br> steel <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/710rTbb2pwL._SL1500_.jpg"> | [amazon](https://www.amazon.com/dp/B089ZY11DD) |
 
 
 
