@@ -11,7 +11,7 @@
 | X range <br>extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
 | Y belt <br>tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
 | Y stepper <br>mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](<https://www.thingiverse.com/thing:4838967>) |
-| Z stop<br> alignment | <img height=240 src="img/z stop alignment.jpeg"> | [printables](<https://www.printables.com/model/216852-sovol-sv01-z-stop-alignment>) |
+| Z stop<br> alignment | <img height=240 src="img/zstop_alignment_remix.jpeg"> | [printables](<https://www.printables.com/model/671573-sovol-sv01-volcano-compatible-z-stop-alignment-for>) |
 | runout sensor<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/b7/ad/2a/7f/0c/IMG_1791.JPG"> | [JSchulze<br>mount](<https://www.thingiverse.com/thing:4702282>) |
 |  filament roll<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/fd/c8/3a/ba/3b/IMG_2220_BW.jpg"> | [ender 3<br>roll<br>mount](<https://www.thingiverse.com/thing:3209211>) & <br> [bearing](https://a.co/d/90L8IW4) |
 | stepper <br>cooling <br>fins | <img height=240 src="https://m.media-amazon.com/images/I/51LDMZFWvDL._SL1100_.jpg"> | [uxcell](https://a.co/d/aYJ3Zk2)<br>on amazon |
@@ -61,6 +61,7 @@
 | 24V 70W<br>hotend<br>heater | <img height=240 src="https://m.media-amazon.com/images/I/41Gx6WGpLPL._SL1200_.jpg"> | [find @ amazon](https://a.co/d/gRNovJU) |
 | HT-NTC100K<br>thermistor | <img height=240 src="https://m.media-amazon.com/images/I/61b8YVrrR-L._SL1500_.jpg"> | [find @ amazon](https://a.co/d/f613qRR) |
 | nozzle cleaning <br> needles | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [amazon](https://a.co/d/hRjQNYg) | 
+| FR-4/G-10<br>garolite<br>buildplate | <img height=240 src="img/garolite.jpeg"> | [amazon](https://a.co/d/d0B1V7T) | 
 | V slot wheels | <img height=240 src="https://m.media-amazon.com/images/I/61YdclaUhLL._SL1000_.jpg"> | [amazon](https://a.co/d/240LR4G) |
 | X Stepper | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
 | Y Stepper | <img height=240 src="img/Y.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
