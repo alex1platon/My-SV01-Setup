@@ -10,8 +10,9 @@
 | X belt <br>tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
 | X range <br>extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
 | Y belt <br>tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
-| Y stepper <br>mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](<https://www.thingiverse.com/thing:4838967>) |
+| Y stepper <br>mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](https://www.thingiverse.com/thing:4838967) |
 | Z stop<br> alignment | <img height=240 src="img/zstop_alignment_remix.jpeg"> | [printables](<https://www.printables.com/model/671573-sovol-sv01-volcano-compatible-z-stop-alignment-for>) |
+| Level probe | <img height=240 src="img/with_3D_touch.jpeg"> | [3D Touch<br>on Amazon](https://a.co/d/0owbKth) |
 | runout sensor<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/b7/ad/2a/7f/0c/IMG_1791.JPG"> | [JSchulze<br>mount](<https://www.thingiverse.com/thing:4702282>) |
 |  filament roll<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/fd/c8/3a/ba/3b/IMG_2220_BW.jpg"> | [ender 3<br>roll<br>mount](<https://www.thingiverse.com/thing:3209211>) & <br> [bearing](https://a.co/d/90L8IW4) |
 | stepper <br>cooling <br>fins | <img height=240 src="https://m.media-amazon.com/images/I/51LDMZFWvDL._SL1100_.jpg"> | [uxcell](https://a.co/d/aYJ3Zk2)<br>on amazon |
