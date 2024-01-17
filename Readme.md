@@ -36,19 +36,21 @@
 | convert 4010<br>to quiet<br>5015 blower | <img src="img/5015_from_4010.gif"> | [thingiverse](https://www.thingiverse.com/thing:5930214) |
 | 4010 axial<br>for conv-<br>ersion | <img height=240 src="https://m.media-amazon.com/images/I/81vW3aWqv7L._SL1500_.jpg"> | [amazon](https://a.co/d/5wkSaSN) |
 
-
 ## Accessories
 
 | accesory | img | links | 
 | --- | --- | ---|
-| noclogger | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [noclogger](noclogger.com) |
 | raspberry pi <br> and case | <img height=240 src="img/Raspi.jpeg"> | [raspi](https://vilros.com) and [case](<https://www.thingiverse.com/thing:922740>) |
 | pi camera <br> and mount | <img height=240 src="img/Raspi Cam Support.jpeg"> | [camera](https://a.co/d/dSdaBow)<br>[IR spotlights](https://a.co/d/jax8Tq6)<br>[ribbon cable](https://a.co/d/bCktKH6)<br>& [mount stl](<https://www.printables.com/model/158940-pi-camera-support-for-20mm-rail-holes-for-dorhea-p>) |
 | APC UPS <br > and Wemo <br>smart plugs | <img height=240 src="img/Wemo and APC Back_UPS 750VA.jpeg"> | [ be650g](https://a.co/d/j0rVtcV) <br> and [ wemo](https://a.co/d/0c2rCXv) <br> on amazon |
 | lid for blue <br>lcd screen | <img height=240 src="https://media.printables.com/media/prints/489612/images/3994942_98f87456-4f71-4621-a18d-1f88f59d4974/thumbs/inside/320x240/jpeg/large_display_1475f57a-1b92-4bd9-99a3-1d4a4fee3fa2_489612.webp"> | [printables](<https://www.printables.com/model/489612-lcd-display-lid-for-sovol-sv01-or-ender-3>) | 
-| LED bar mount | <img height=240 src="https://media.printables.com/media/prints/454875/images/3740040_19ac5ca1-dd77-4d0e-b3a1-a5931127c3af/thumbs/inside/320x240/png/large_display_a7dfa240-ace4-4385-bc0f-01f56fbf9e08_454875.webp"> | [printables](<https://www.printables.com/model/454875-led-bar-support-for-sovol-sv0103-with-bmg-extruder>) |
+| LED bar <br>mount | <img height=240 src="https://media.printables.com/media/prints/454875/images/3740040_19ac5ca1-dd77-4d0e-b3a1-a5931127c3af/thumbs/inside/320x240/png/large_display_a7dfa240-ace4-4385-bc0f-01f56fbf9e08_454875.webp"> | [printables](<https://www.printables.com/model/454875-led-bar-support-for-sovol-sv0103-with-bmg-extruder>) |
 
-
+## Maintenance
+| item | img | links | 
+| --- | --- | ---|
+| noclogger | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [Noclogger](noclogger.com)<br> or [generic](https://a.co/d/da5QdSg) |
+| nozzle<br> cleaning  | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [needles](https://a.co/d/hRjQNYg) <br> or [rods](https://a.co/d/iFYYc8U)| 
 
 ## Spare parts
 
@@ -60,13 +62,13 @@
 | volcano<br>brass<br>nozzles | <img height=240 src="https://m.media-amazon.com/images/I/81G1OWgb0AL._SL1500_.jpg"> | [find @ amazon](https://a.co/d/a8r83gt) |
 | 24V 70W<br>hotend<br>heater | <img height=240 src="https://m.media-amazon.com/images/I/41Gx6WGpLPL._SL1200_.jpg"> | [find @ amazon](https://a.co/d/gRNovJU) |
 | HT-NTC100K<br>thermistor | <img height=240 src="https://m.media-amazon.com/images/I/61b8YVrrR-L._SL1500_.jpg"> | [find @ amazon](https://a.co/d/f613qRR) |
-| nozzle cleaning <br> needles | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [amazon](https://a.co/d/hRjQNYg) | 
 | FR-4/G-10<br>garolite<br>buildplate | <img height=240 src="img/garolite.jpeg"> | [amazon](https://a.co/d/d0B1V7T) | 
 | V slot wheels | <img height=240 src="https://m.media-amazon.com/images/I/61YdclaUhLL._SL1000_.jpg"> | [amazon](https://a.co/d/240LR4G) |
 | X Stepper | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
 | Y Stepper | <img height=240 src="img/Y.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
 | E Stepper | <img height=240 src="img/Extruder.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
-
+| spiral cable <br>wrap | <img height=240 src="https://m.media-amazon.com/images/I/61MEmR4oPtL._AC_SL1500_.jpg"> | [buy on <br>amazon](https://a.co/d/iAAA734) |
+| Connector<br>crimper<br>kit | <img src="https://m.media-amazon.com/images/I/71PO8EOHiML._AC_SL1185_.jpg"> | [buy on<br>amazon](https://a.co/d/0pm9C3N) |
 
 
 
