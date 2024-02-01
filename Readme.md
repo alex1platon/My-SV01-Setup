@@ -50,7 +50,7 @@
 | item | img | links | 
 | --- | --- | ---|
 | noclogger | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [Noclogger](http://noclogger.com)<br> or [generic](https://a.co/d/da5QdSg) |
-| nozzle<br> cleaning  | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [needles](https://a.co/d/hRjQNYg), much<br>[longer needles](https://a.co/d/1vsDrcn) <br> (or "[rods](https://a.co/d/iFYYc8U)")| 
+| nozzle<br> cleaning  | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [needles](https://a.co/d/hRjQNYg), much<br>[longer needles](https://a.co/d/1vsDrcn) <br> (aka [wire](https://a.co/d/iFYYc8U))| 
 
 ## Spare parts
 
