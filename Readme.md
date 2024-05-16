@@ -5,13 +5,16 @@
 | upgrade | img | links |  
 | --- | --- | --- | 
 | general upgrades | <img height=240 src="img/printhead.jpeg"> | [larger image](img/printhead.jpeg) | 
-| high flow<br> upgrade | <img height=240 src="img/voclano%20style%20hotend.jpeg"> | [larger image](img/voclano%20style%20hotend.jpeg) | 
-| BMG/left clone <br> extruder | <img height=240 src="https://m.media-amazon.com/images/I/31eNmDLdNjL.jpg"> | [amazon](<https://a.co/d/bordiUr>) |
+| cooling upgrade | <img height=240 src="img/cooling%2040x0%205015%201.jpeg"> | [larger image](img/cooling%2040x0%205015%201.jpeg) |
+| high flow and autoleveling upgrade | <img height=240 src="img/cooling%2040x0%205015%20and%20BLTouch.jpeg"> | [larger image](img/cooling%2040x0%205015%20and%20BLTouch.jpeg) |
+| BMG/left clone <br> extruder | <img height=240 height=240 src="https://m.media-amazon.com/images/I/31eNmDLdNjL.jpg"> | [amazon](<https://a.co/d/bordiUr>) |
 | X belt <br>tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
 | X range <br>extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
 | Y belt <br>tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
 | Y stepper <br>mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](https://www.thingiverse.com/thing:4838967) |
-| Level probe | <img height=240 src="img/with_3D_touch.jpeg"> | [3D Touch<br>on Amazon](https://a.co/d/0owbKth) |
+| Level probe <br>and mount | <img height=240 src="img/cooling 40x0 5015 and BLTouch.jpeg"> | [3D Touch<br>on Amazon](https://a.co/d/0owbKth). <br>[Mount (and <br>fan shroud) <br>on Printables](https://www.printables.com/model/881100). |
+| Dual <br>independent <br>Z control: <br>second BTT <br>SKR Mini <br> E3 V3.0 <br> control board | <img height=240 src="https://m.media-amazon.com/images/I/71bNrAYagQL._AC_SL1500_.jpg"> | [E3 V3.0](https://a.co/d/51EUZl3) |
+| quiet power<br> supply fan <br>(only 12V <br>fan works!) | <img height=240 src="https://m.media-amazon.com/images/I/71Dst09vyBL._SL1300_.jpg"> | [wathai on<br> amazon](https://a.co/d/24aplno) |
 | runout sensor<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/b7/ad/2a/7f/0c/IMG_1791.JPG"> | [JSchulze<br>mount](<https://www.thingiverse.com/thing:4702282>) |
 |  filament roll<br>mount | <img height=240 src="https://cdn.thingiverse.com/assets/fd/c8/3a/ba/3b/IMG_2220_BW.jpg"> | [ender 3<br>roll<br>mount](<https://www.thingiverse.com/thing:3209211>) & <br> [bearing](https://a.co/d/90L8IW4) |
 | stepper <br>cooling <br>fins | <img height=240 src="https://m.media-amazon.com/images/I/51LDMZFWvDL._SL1100_.jpg"> | [uxcell](https://a.co/d/aYJ3Zk2)<br>on amazon |
@@ -23,27 +26,25 @@
 ## Noise reduction upgrades
 | upgrade | img | links |  
 | --- | --- | --- | 
-| BTT SKR Mini <br> E3 V3.0 <br> control board | <img height=240 src="https://m.media-amazon.com/images/I/71bNrAYagQL._AC_SL1500_.jpg"> | [E3 V3.0](https://a.co/d/51EUZl3) |
+| BTT SKR Mini <br> control board <br>(silent!) | <img height=240 src="https://m.media-amazon.com/images/I/71bNrAYagQL._AC_SL1500_.jpg"> | [E3 V3.0 on <br>Amazon](https://a.co/d/51EUZl3) |
 | quiet power<br> supply fan <br>(only 12V <br>fan works!) | <img height=240 src="https://m.media-amazon.com/images/I/71Dst09vyBL._SL1300_.jpg"> | [wathai on<br> amazon](https://a.co/d/24aplno) |
-| quiet part <br>cooling | <img height=240 src="https://m.media-amazon.com/images/I/71SOqhUBiXL._SL1500_.jpg"> | [wathai <br>4010 blower](<https://a.co/d/6yR5Fmj>) |
-| part cooling <br>mount | <img height=240 src="img/part cooling mount.jpeg"> | [swivel for<br> 4010 part <br>cooling <br> blower](<https://www.printables.com/model/471880-swivel-for-4010-part-cooling-blower-sv0103-bmgleft>) | 
 | quiet case fan <br> & heatbreak fan | <img height=240 src="https://m.media-amazon.com/images/I/71lyRpVR4OL._AC_SL1500_.jpg"> | [noctua](https://a.co/d/gO9xUxP) <br> on amazon | 
 | buck <br> converter <br> for noctua's | <img height=240 src="https://m.media-amazon.com/images/I/616do91Hk6L._AC_SL1500_.jpg"> | [amazon](https://a.co/d/ecNWJ9P) |
 | 4020 case <br>fan and buck <br> converter <br> mount | <img height=240 width=180  src="https://media.printables.com/media/prints/213163/images/3474119_838f0288-6d31-4b94-9870-59846d3a6800/thumbs/inside/1280x960/jpeg/img_5113heic_bw.webp"> | [mount STL](<https://www.printables.com/model/213163-mount-for-silent-400-mainboard-axial-cooling-fan-f>) |
-| heatbreak <br> fan mount | <img height=240 width=320 src="img/heatbreak fan mount and brace.jpeg"> | [printables](<https://www.printables.com/model/491989-40x0-fan-mount-for-e3dv6-style-heatbreaks-centered>) |
-| alternative <br> part cooling <br> for bmg | <img height=240 width=320 src="img/duct_5015_part_cooling.jpeg"> | [printables](https://www.printables.com/model/466448-501540x0-parthotend-cooling-for-sv0103-with-bmglef) |
+| heatbreak <br> fan mount <br> &amp; part cooling <br> for bmg + <br>volcano| <img height=240 width=320 src="img/cooling 40x0 5015 1.jpeg"> | [printables](<https://www.printables.com/model/881100>) |
 | 5015 blower<br>fan (noisy) | <img height=240  src="https://m.media-amazon.com/images/I/61YEO+uAv+L._SL1000_.jpg"> | [amazon](https://a.co/d/emv9oxA) |
 | convert 4010<br>to quiet<br>5015 blower | <img src="img/5015_from_4010.gif"> | [thingiverse](https://www.thingiverse.com/thing:5930214) |
-| 4010 axial<br>for conv-<br>ersion | <img height=240 src="https://m.media-amazon.com/images/I/81vW3aWqv7L._SL1500_.jpg"> | [amazon](https://a.co/d/5wkSaSN) |
+| quiet 12V <br>4010 axial<br>for conv-<br>ersion | <img height=240 src="https://m.media-amazon.com/images/I/81vW3aWqv7L._SL1500_.jpg"> | [amazon](https://a.co/d/5wkSaSN) |
+| noisier 24V <br>4010 axial<br>for conv-<br>ersion | <img height=240 src="https://m.media-amazon.com/images/I/611iPhelXCL._SL1000_.jpg"> | [amazon](https://a.co/d/id9Lwbn) |
 
 ## Accessories
 
 | accesory | img | links | 
 | --- | --- | ---|
-| raspberry pi <br> and case | <img height=240 src="img/Raspi.jpeg"> | [raspi](https://vilros.com) and [case](<https://www.thingiverse.com/thing:922740>) |
+| raspberry pi <br> touch screen | <img height=240 src="https://m.media-amazon.com/images/I/61A5mW6we8L._AC_SL1500_.jpg"> | [buy on <br>amazon](https://a.co/d/eqFTE4a) |
+| raspberry pi | <img height=240 src="img/Raspi.jpeg"> | [raspi at <br>vilros](https://vilros.com) |
 | pi camera <br> and mount | <img height=240 src="img/Raspi Cam Support.jpeg"> | [camera](https://a.co/d/dSdaBow)<br>[IR spotlights](https://a.co/d/jax8Tq6)<br>[ribbon cable](https://a.co/d/bCktKH6)<br>& [mount stl](<https://www.printables.com/model/158940-pi-camera-support-for-20mm-rail-holes-for-dorhea-p>) |
 | APC UPS <br > and Wemo <br>smart plugs | <img height=240 src="img/Wemo and APC Back_UPS 750VA.jpeg"> | [ be650g](https://a.co/d/j0rVtcV) <br> and [ wemo](https://a.co/d/0c2rCXv) <br> on amazon |
-| lid for blue <br>lcd screen | <img height=240 src="https://media.printables.com/media/prints/489612/images/3994942_98f87456-4f71-4621-a18d-1f88f59d4974/thumbs/inside/320x240/jpeg/large_display_1475f57a-1b92-4bd9-99a3-1d4a4fee3fa2_489612.webp"> | [printables](<https://www.printables.com/model/489612-lcd-display-lid-for-sovol-sv01-or-ender-3>) | 
 | LED bar <br>mount | <img height=240 src="https://media.printables.com/media/prints/454875/images/3740040_19ac5ca1-dd77-4d0e-b3a1-a5931127c3af/thumbs/inside/320x240/png/large_display_a7dfa240-ace4-4385-bc0f-01f56fbf9e08_454875.webp"> | [printables](<https://www.printables.com/model/454875-led-bar-support-for-sovol-sv0103-with-bmg-extruder>) |
 
 ## Maintenance
@@ -67,6 +68,7 @@
 | X Stepper | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
 | Y Stepper | <img height=240 src="img/Y.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
 | E Stepper | <img height=240 src="img/Extruder.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
+| stepper motor <br>wiring | <img height=240 src="https://m.media-amazon.com/images/I/71oFo9wRWVL._AC_SL1500_.jpg"> | [buy on Amazon](https://a.co/d/1Dw3CdX) |
 | spiral cable <br>wrap | <img height=240 src="https://m.media-amazon.com/images/I/61MEmR4oPtL._AC_SL1500_.jpg"> | [buy on <br>amazon](https://a.co/d/iAAA734) |
 | Connector<br>crimper<br>kit | <img src="https://m.media-amazon.com/images/I/71PO8EOHiML._AC_SL1185_.jpg"> | [buy on<br>amazon](https://a.co/d/0pm9C3N) |
 
@@ -107,6 +109,7 @@
 | 0.6 mm <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/615MjZNdlCL._SL1200_.jpg"> | [amazon](https://a.co/d/a7jK2DG) |
 | hardened <br> steel <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/710rTbb2pwL._SL1500_.jpg"> | [amazon](https://www.amazon.com/dp/B089ZY11DD) |
 | Z stop<br> alignment | <img height=240 src="img/zstop_alignment_remix.jpeg"> | [printables](<https://www.printables.com/model/671573-sovol-sv01-volcano-compatible-z-stop-alignment-for>) |
+| lid for blue <br>lcd screen | <img height=240 src="https://media.printables.com/media/prints/489612/images/3994942_98f87456-4f71-4621-a18d-1f88f59d4974/thumbs/inside/320x240/jpeg/large_display_1475f57a-1b92-4bd9-99a3-1d4a4fee3fa2_489612.webp"> | [printables](<https://www.printables.com/model/489612-lcd-display-lid-for-sovol-sv01-or-ender-3>) | 
 
 
 
