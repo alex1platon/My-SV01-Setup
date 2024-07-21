@@ -1,16 +1,13 @@
-
 # Sovol SV01 (classic) upgrades, parts, and materials
 
 ## Reliability upgrades
 | upgrade | img | links |  
 | --- | --- | --- | 
 | general upgrades | <img height=240 src="img/printhead.jpeg"> | [larger image](img/printhead.jpeg) | 
-| cooling upgrade | <img height=240 src="img/cooling%2040x0%205015%201.jpeg"> | [larger image](img/cooling%2040x0%205015%201.jpeg) |
-| high flow and autoleveling upgrade | <img height=240 src="img/cooling%2040x0%205015%20and%20BLTouch.jpeg"> | [larger image](img/cooling%2040x0%205015%20and%20BLTouch.jpeg) |
 | BMG/left clone <br> extruder | <img height=240 height=240 src="https://m.media-amazon.com/images/I/31eNmDLdNjL.jpg"> | [amazon](<https://a.co/d/bordiUr>) |
-| X belt <br>tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
+| X belt <br>tensioner | <img height=240 src="img/X belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064>) |
 | X range <br>extender | <img height=240 src="img/X10DR.jpeg"> | [printables](<https://www.printables.com/model/167210-nemesis-x10dr-x-axis-range-extender-for-sovol-sv01>) |
-| Y belt <br>tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064-x-and-y-belt-tensioner-mods-sovol-sv01>) |
+| Y belt <br>tensioner | <img height=240 src="img/Y belt tensioner.jpeg"> | [printables](<https://www.printables.com/model/445064>) |
 | Y stepper <br>mount | <img height=240 src="img/Y Stepper Mount.jpeg"> | [thingi](https://www.thingiverse.com/thing:4838967) |
 | Level probe <br>and mount | <img height=240 src="img/cooling 40x0 5015 and BLTouch.jpeg"> | [3D Touch<br>on Amazon](https://a.co/d/0owbKth). <br>[Mount (and <br>fan shroud) <br>on Printables](https://www.printables.com/model/881100). |
 | Dual <br>independent <br>Z control: <br>second BTT <br>SKR Mini <br> E3 V3.0 <br> control board | <img height=240 src="https://m.media-amazon.com/images/I/71bNrAYagQL._AC_SL1500_.jpg"> | [E3 V3.0](https://a.co/d/51EUZl3) |
@@ -32,10 +29,23 @@
 | buck <br> converter <br> for noctua's | <img height=240 src="https://m.media-amazon.com/images/I/616do91Hk6L._AC_SL1500_.jpg"> | [amazon](https://a.co/d/ecNWJ9P) |
 | 4020 case <br>fan and buck <br> converter <br> mount | <img height=240 width=180  src="https://media.printables.com/media/prints/213163/images/3474119_838f0288-6d31-4b94-9870-59846d3a6800/thumbs/inside/1280x960/jpeg/img_5113heic_bw.webp"> | [mount STL](<https://www.printables.com/model/213163-mount-for-silent-400-mainboard-axial-cooling-fan-f>) |
 | heatbreak <br> fan mount <br> &amp; part cooling <br> for bmg + <br>volcano| <img height=240 width=320 src="img/cooling 40x0 5015 1.jpeg"> | [printables](<https://www.printables.com/model/881100>) |
-| 5015 blower<br>fan (noisy) | <img height=240  src="https://m.media-amazon.com/images/I/61YEO+uAv+L._SL1000_.jpg"> | [amazon](https://a.co/d/emv9oxA) |
 | convert 4010<br>to quiet<br>5015 blower | <img src="img/5015_from_4010.gif"> | [thingiverse](https://www.thingiverse.com/thing:5930214) |
 | quiet 12V <br>4010 axial<br>for conv-<br>ersion | <img height=240 src="https://m.media-amazon.com/images/I/81vW3aWqv7L._SL1500_.jpg"> | [amazon](https://a.co/d/5wkSaSN) |
 | noisier 24V <br>4010 axial<br>for conv-<br>ersion | <img height=240 src="https://m.media-amazon.com/images/I/611iPhelXCL._SL1000_.jpg"> | [amazon](https://a.co/d/id9Lwbn) |
+
+## Spare parts
+| part | img | links |
+| --- | --- | --- |
+| CHC Volcano-<br>size hotend | <img height=240 src="https://m.media-amazon.com/images/I/51P5tb0w1xL._SL1001_.jpg"> | [CHC Pro 115W<br>(Amazon)](https://a.co/d/75nIA14) |
+| all metal <br> heatbreak | <img height=240 src="img/heatbreak comparison.JPG"> | [yunbotong on amazon](https://a.co/d/fkr1iOX) |
+| volcano<br>brass<br>nozzles | <img height=240 src="https://m.media-amazon.com/images/I/81G1OWgb0AL._SL1500_.jpg"> | [find @ amazon](https://a.co/d/a8r83gt) |
+| V slot wheels | <img height=240 src="https://m.media-amazon.com/images/I/61YdclaUhLL._SL1000_.jpg"> | [amazon](https://a.co/d/240LR4G) |
+| X Stepper | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
+| Y Stepper | <img height=240 src="img/Y.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
+| E Stepper | <img height=240 src="img/Extruder.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
+| stepper motor <br>wiring | <img height=240 src="https://m.media-amazon.com/images/I/71oFo9wRWVL._AC_SL1500_.jpg"> | [buy on Amazon](https://a.co/d/1Dw3CdX) |
+| spiral cable <br>wrap | <img height=240 src="https://m.media-amazon.com/images/I/61MEmR4oPtL._AC_SL1500_.jpg"> | [buy on <br>amazon](https://a.co/d/iAAA734) |
+| Connector<br>crimper<br>kit | <img src="https://m.media-amazon.com/images/I/71PO8EOHiML._AC_SL1185_.jpg"> | [buy on<br>amazon](https://a.co/d/0pm9C3N) |
 
 ## Accessories
 
@@ -50,28 +60,8 @@
 ## Maintenance
 | item | img | links | 
 | --- | --- | ---|
-| noclogger | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [Noclogger](http://noclogger.com)<br> or [generic](https://a.co/d/da5QdSg) |
+| Clog rod | <img src="img/NoClogger, Elmers Glue Stick, and Hairspray.jpeg" height="240"> | [Noclogger](http://noclogger.com),<br> or [generic](https://a.co/d/da5QdSg)<br> w/ [handle](https://printables.com/model/948276) |
 | nozzle<br> cleaning  | <img height=240 src="https://m.media-amazon.com/images/I/71pAYsm9-qL._SL1500_.jpg"> | [needles](https://a.co/d/hRjQNYg), much<br>[longer needles](https://a.co/d/1vsDrcn) <br> (aka [wire](https://a.co/d/iFYYc8U))| 
-
-## Spare parts
-
-| part | img | links |
-| --- | --- | --- |
-| volcano style<br>heatblock | <img height=240 src="https://m.media-amazon.com/images/I/51YUq2enrtL._SL1000_.jpg"> | [find @ amazon](https://a.co/d/ji4frxp) |
-| all metal <br> heatbreak | <img height=240 src="img/heatbreak comparison.JPG"> | [yunbotong on amazon](https://a.co/d/fkr1iOX) |
-| volcano<br>silicone<br>socks | <img height=240 src="https://m.media-amazon.com/images/I/51MMAMbXCfL._SL1001_.jpg"> | [find @ amazon](https://a.co/d/hDsSlHV) |
-| volcano<br>brass<br>nozzles | <img height=240 src="https://m.media-amazon.com/images/I/81G1OWgb0AL._SL1500_.jpg"> | [find @ amazon](https://a.co/d/a8r83gt) |
-| 24V 70W<br>hotend<br>heater | <img height=240 src="https://m.media-amazon.com/images/I/41Gx6WGpLPL._SL1200_.jpg"> | [find @ amazon](https://a.co/d/gRNovJU) |
-| HT-NTC100K<br>thermistor | <img height=240 src="https://m.media-amazon.com/images/I/61b8YVrrR-L._SL1500_.jpg"> | [find @ amazon](https://a.co/d/f613qRR) |
-| FR-4/G-10<br>garolite<br>buildplate | <img height=240 src="img/garolite.jpeg"> | [amazon](https://a.co/d/d0B1V7T) | 
-| V slot wheels | <img height=240 src="https://m.media-amazon.com/images/I/61YdclaUhLL._SL1000_.jpg"> | [amazon](https://a.co/d/240LR4G) |
-| X Stepper | <img height=240 src="img/X.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
-| Y Stepper | <img height=240 src="img/Y.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
-| E Stepper | <img height=240 src="img/Extruder.jpeg"> | [NEMA17 on<br> amazon](https://a.co/d/hBkb0kq) |
-| stepper motor <br>wiring | <img height=240 src="https://m.media-amazon.com/images/I/71oFo9wRWVL._AC_SL1500_.jpg"> | [buy on Amazon](https://a.co/d/1Dw3CdX) |
-| spiral cable <br>wrap | <img height=240 src="https://m.media-amazon.com/images/I/61MEmR4oPtL._AC_SL1500_.jpg"> | [buy on <br>amazon](https://a.co/d/iAAA734) |
-| Connector<br>crimper<br>kit | <img src="https://m.media-amazon.com/images/I/71PO8EOHiML._AC_SL1185_.jpg"> | [buy on<br>amazon](https://a.co/d/0pm9C3N) |
-
 
 
 ## Materials
@@ -110,6 +100,9 @@
 | hardened <br> steel <br> nozzles | <img height=240 src="https://m.media-amazon.com/images/I/710rTbb2pwL._SL1500_.jpg"> | [amazon](https://www.amazon.com/dp/B089ZY11DD) |
 | Z stop<br> alignment | <img height=240 src="img/zstop_alignment_remix.jpeg"> | [printables](<https://www.printables.com/model/671573-sovol-sv01-volcano-compatible-z-stop-alignment-for>) |
 | lid for blue <br>lcd screen | <img height=240 src="https://media.printables.com/media/prints/489612/images/3994942_98f87456-4f71-4621-a18d-1f88f59d4974/thumbs/inside/320x240/jpeg/large_display_1475f57a-1b92-4bd9-99a3-1d4a4fee3fa2_489612.webp"> | [printables](<https://www.printables.com/model/489612-lcd-display-lid-for-sovol-sv01-or-ender-3>) | 
-
-
-
+| volcano<br>silicone<br>socks | <img height=240 src="https://m.media-amazon.com/images/I/51MMAMbXCfL._SL1001_.jpg"> | [find @ amazon](https://a.co/d/hDsSlHV) |
+| volcano style<br>heatblock | <img height=240 src="https://m.media-amazon.com/images/I/51YUq2enrtL._SL1000_.jpg"> | [find @ amazon](https://a.co/d/ji4frxp) |
+| 24V 70W<br>hotend<br>heater | <img height=240 src="https://m.media-amazon.com/images/I/41Gx6WGpLPL._SL1200_.jpg"> | [find @ amazon](https://a.co/d/gRNovJU) |
+| HT-NTC100K<br>thermistor | <img height=240 src="https://m.media-amazon.com/images/I/61b8YVrrR-L._SL1500_.jpg"> | [find @ amazon](https://a.co/d/f613qRR) |
+| FR-4/G-10<br>garolite<br>buildplate | <img height=240 src="img/garolite.jpeg"> | [amazon](https://a.co/d/d0B1V7T) | 
+| 5015 blower<br>fan (noisy) | <img height=240  src="https://m.media-amazon.com/images/I/61YEO+uAv+L._SL1000_.jpg"> | [amazon](https://a.co/d/emv9oxA) |
